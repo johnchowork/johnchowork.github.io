@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "The Setup"
+date:   2020-06-24 14:12:06 -0400
+categories: setup macbook apple update
+---
+
+A few things
+- XVim2 on Xcode
+- Notion
+- VS Code
+- PasteBot
+- Alfred
+- Keyboard Maestro
+- One Switch
+- Turbo Boost Switcher Pro
+- Mouse-Scroll fix
