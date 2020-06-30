@@ -5,13 +5,21 @@ date:   2020-06-24 14:12:06 -0400
 categories: setup macbook apple update
 ---
 
-A few things
-- XVim2 on Xcode
-- Notion
-- VS Code
-- PasteBot
-- Alfred
+After mulling over a couple of years on another Laptop purchase, I've settled on the 2020 MacBook Air, and it's the first any Laptop that I would recommend since the 2015 MacBook Pro to friends and families.
+
+I won't go into too much details, as there are better/proper reviews out there, but taking into account botht the hardware/softwhere, this is what I've felt after the first couple of times that I've used this machine.
+
+#### The Highlights
+- Keyboard is the best I've typed on a laptop in a long while. The Feel, the physical function keys, the separated TouchID key, the Physical Esc key, and so many other minor things that make for a huge thing.
+- The Finish. There's no build quality out there as consistant and beautiful.
+
+
+#### Still would like
+- A separation between the scrolling direction of the trackpad and mouse. It makes sense for the trackpad to scroll in the "Natural" direction, as this is what we expect when we scroll-swipe on our phones, but it makes no sense on a mouse, when we've been so used to the regular scroll direction since we've ever had scroll wheels on a mouse.
+- Extension support on Xcode. I need my XVim support without hacking around credentials.
+- I think the Big Sur is going to add something like One Switch by Fireball Studios, so that'll be addressed. The BT headphones switching is still a pain, the AirPods (Pro) makes it better, but there are still days where it frustrates.
+
+
+#### A few things to delve more into to make it may own
 - Keyboard Maestro
-- One Switch
-- Turbo Boost Switcher Pro
-- Mouse-Scroll fix
+- Alfred

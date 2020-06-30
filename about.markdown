@@ -3,6 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+
+All of these posts are living docs, so I can build on them as I go along. Dates on the posts don't really mean much, but I will update it if the changes are significant enough.
+
+
 ### Now
 
 - Delving into SwiftUI
